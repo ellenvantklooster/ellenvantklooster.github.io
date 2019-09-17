@@ -121,19 +121,19 @@ p {
 @media (min-width: 100px) {
   .intro .intro-img {
     width: 15%;
-    float: left;
+    float: middle;
   }
   .intro .intro-text {
-    left: 4;
+    left: 0;
     width: 60%;
     margin-top: 3rem;
     position: absolute;
   }
   .intro .intro-text .intro-button {
-    width: 100%;
-    left: 4;
+    width: 80%;
+    left: 0;
     position: absolute;
-    bottom: -2rem;
+    bottom: -3rem;
   }
 }
 
