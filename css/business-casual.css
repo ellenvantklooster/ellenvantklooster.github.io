@@ -120,9 +120,11 @@ p {
 
 @media (min-width: 992px) {
   .intro .intro-img {
+    z-index: -1;
     width: 15%;
     float: left;
-    margin-left:8rem;
+    margin-left:7rem;
+    position: relative;
   }
   .intro .intro-text {
     margin-left: 15rem;
