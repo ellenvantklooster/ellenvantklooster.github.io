@@ -121,11 +121,10 @@ p {
 @media (min-width: 992px) {
   .intro .intro-img {
     width: 15%;
-    float: right;
-    margin-right: 15rem;
+    float: left;
   }
   .intro .intro-text {
-    margin-left: 6rem;
+    margin-left: 15rem;
     width: 100%;
     margin-top: 0rem;
     position: absolute;
@@ -140,7 +139,7 @@ p {
 
 @media (min-width: 1200px) {
   .intro .intro-text {
-    width: 45%;
+    width: 80%;
   }
 }
 
