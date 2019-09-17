@@ -124,7 +124,7 @@ p {
     float: right;
   }
   .intro .intro-text {
-    left: 0;
+    margin-left: 6rem;
     width: 60%;
     margin-top: 0rem;
     position: absolute;
