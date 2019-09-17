@@ -124,14 +124,14 @@ p {
     float: left;
   }
   .intro .intro-text {
-    left: 0;
+    left: 4;
     width: 60%;
     margin-top: 3rem;
     position: absolute;
   }
   .intro .intro-text .intro-button {
     width: 100%;
-    left: 0;
+    left: 4;
     position: absolute;
     bottom: -2rem;
   }
