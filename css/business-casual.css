@@ -121,7 +121,7 @@ p {
 @media (min-width: 100px) {
   .intro .intro-img {
     width: 15%;
-    float: middle;
+    float: left;
   }
   .intro .intro-text {
     left: 0;
@@ -130,7 +130,7 @@ p {
     position: absolute;
   }
   .intro .intro-text .intro-button {
-    width: 80%;
+    width: 70%;
     left: 0;
     position: absolute;
     bottom: -3rem;
