@@ -122,6 +122,7 @@ p {
   .intro .intro-img {
     width: 15%;
     float: left;
+    margin-left:8rem;
   }
   .intro .intro-text {
     margin-left: 15rem;
